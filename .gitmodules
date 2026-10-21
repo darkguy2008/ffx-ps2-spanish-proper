@@ -1,0 +1,7 @@
+[submodule "vendor/FFXDataParser"]
+	path = vendor/FFXDataParser
+	url = https://github.com/darkguy2008/FFXDataParser.git
+	branch = implement-weapon-name-tobytes
+[submodule "vendor/vbfextract"]
+	path = vendor/vbfextract
+	url = https://github.com/topher-au/vbfextract.git

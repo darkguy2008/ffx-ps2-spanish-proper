@@ -1,0 +1,5 @@
+file,record,field,replaces,text
+config_txt.bin,36,name,Inglés,Español
+config_txt.bin,36,description,Muestra los mensajes en inglés.,Muestra los mensajes en español.
+config_txt.bin,37,name,Español,Japonés
+config_txt.bin,37,description,Muestra los mensajes en español.,Muestra los mensajes en japonés.

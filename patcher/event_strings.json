@@ -1,0 +1,12 @@
+{
+ "test20": {
+  "pal": {"2": 2, "6": 6, "10": 8, "14": 10, "20": 12},
+  "text": {
+   "4": "{0930}{1999} INTERNATIONAL incluye\nun tablero de esferas nuevo y mejorado.\n¡El desarrollo de los personajes es más libre\nque nunca con el {0a43}tablero de esferas avanzado{0a41}!",
+   "8": "{0930}{0a88}Tablero de esferas básico{0a41}\nEl tablero original de {1999},\n¡ahora con más habilidades para elegir!\nRecomendado para principiantes.",
+   "12": "{0930}{0a88}Tablero de esferas avanzado{0a41}\nEl nuevo tablero de {1999}\nINTERNATIONAL. Los jugadores expertos\ndisfrutarán de su sistema de desarrollo\ncon múltiples rutas.",
+   "16": "{0930}{0a43}Selección de idioma",
+   "18": "{0930}Elige un idioma:\n  {1030}Japonés\n  {1031}Español"
+  }
+ }
+}
